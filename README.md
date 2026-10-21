@@ -9,6 +9,7 @@
 - *Kopiraj* označeno v odložišče: Ctrl+C (**C**opy)
 - *Izreži *označeno v odložišče: Ctrl+X
 - *Prilepi* vsebino odložišča: Ctrl+V
+
 - VSCode paleta ukazov: <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>)
 - Skok na začetek vrstice: <kbd>Home</kbd> (🍎 <kbd>Cmd</kbd>+<kbd>←</kbd>)
 - Premik za eno besedo naprej: <kbd>Ctrl</kbd>+<kbd>→</kbd> (🍎 <kbd>Option</kbd>+<kbd>→</kbd>)
